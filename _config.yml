@@ -1,5 +1,5 @@
 # Site settings
-title: Rongkun Yang Blog
+title: YangRongkun Blog
 SEOTitle: 杨荣坤的博客 | YRK Blog
 header-img: img/post-bg-desk.jpg
 email: yangrk6@mail2.sysu.edu.cn
@@ -18,7 +18,7 @@ sidebar-avatar: /img/YangRongkun.jpg      # use absolute URL, seeing it's used i
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     yangrongkun
 zhihu_username:     海阔天空
 github_username:    yrk-creator
 facebook_username:  baiying.qiu.7
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: yrk-creator.github.io    #仓库名称
+  owner: yrk-creator    #github用户名
+  admin: yrk-creator
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
